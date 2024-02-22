@@ -1,0 +1,3 @@
+C:/Users/sindr/CLionProjects/GC/cmake-build-debug/CMakeFiles/GC.dir
+C:/Users/sindr/CLionProjects/GC/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/sindr/CLionProjects/GC/cmake-build-debug/CMakeFiles/rebuild_cache.dir
